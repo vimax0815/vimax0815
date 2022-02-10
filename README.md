@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 <a href="https://www.kaggle.com/yawgust" target="blank"><img align="center" alt="" height="30" width="40" /></a>
 </p>
 
-### Python 
-![CodeWars](https://www.codewars.com/users/ulyumdzhi/badges/large)
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
