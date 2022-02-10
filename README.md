@@ -1,25 +1,16 @@
-### Hi there 👋
+### Привет! 👋
+Раньше я думал о лесе, как о грибах и чистом воздухе, теперь я думаю о лесе, как о ноликах и единичках 🤔.
+### Интересы:
+- классический ML
+- машинное обучение
+- анализ данных
 
-<!--
-**vimax0815/vimax0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Участие в хакатонах:
+- Raifhack DS — Оценка коммерческой недвижимости ( топ-15% )
+- Evraz Group - Прогнозирование температуры и содержания углерода  в расплаве при выплавке чугуна
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### :mailbox: How to reach me: yawgust@yandex.ru
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyzhkovIlya&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzhkovIlya&layout=compact)](https://github.com/RyzhkovIlya/github-readme-stats)
-<h3 align="left">Connect with me:</h3>
-<p align="left"> -->
-
+### Контакты:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yawgust)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-sadovnikov)
   
@@ -27,7 +18,7 @@ Here are some ideas to get you started:
 ### Python 
 ![CodeWars](https://www.codewars.com/users/vimax0815/badges/large)
 
-### Some badges:
+### Стэк:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
