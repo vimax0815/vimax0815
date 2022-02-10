@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyzhkovIlya&layout=compact)](https://github.com/RyzhkovIlya/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left"> -->
-  
-[![Telegram](https://t.me/yawgust)
-<a href="https://vk.com/id261645280" target="blank"><img align="center" alt="" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/yawgust" target="blank"><img align="center" alt="" height="30" width="40" /></a>
-</p>
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yawgust)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-sadovnikov)
+  
+
+### Python 
+![CodeWars](https://www.codewars.com/users/vimax0815/badges/large)
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
