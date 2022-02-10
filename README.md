@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Python 
-[![CodeWars](https://www.codewars.com/users/vimax0815)
+![CodeWars](https://www.codewars.com/users/ulyumdzhi/badges/large)
 
 ### Some badges:
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
